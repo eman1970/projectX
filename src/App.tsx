@@ -9,7 +9,7 @@ function App() {
       <Greeting />
       <Greeting />
       <Greeting />
-      <Greeting />
+      
 
     </>
   );
